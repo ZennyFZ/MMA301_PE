@@ -1,0 +1,40 @@
+Phòng Khảo thí gửi đến Thầy Cô thông tin liên quan đến tổ chức thi thử PE cho sinh viên như sau:
+
+ 
+
+1. Thời gian tổ chức thi thử:
+
+ 
+
+Ngày thi thử: từ ngày 04 - 14/03; thi thử theo lịch học trên lớp, với sự hướng dẫn của Giảng viên phụ trách môn học.
+Khung giờ: từ 08:00 – 12:00 ; từ 13:00 – 17:00
+Sinh viên sẽ tiến hành thi thử offline tại campus. Sinh viên có thể tham gia test thử nhiều lần. Tuy nhiên, sinh viên cần liên hệ nhóm Zalo IT Support để được re-assign (do phần mềm ghi nhận sinh viên đã hoàn thành bài thi). 
+
+ 
+
+2. Hướng dẫn thực hiện:
+
+- Cơ sở Campus Khu Công nghệ cao Thủ Đức:
+
+- Sinh viên kết nối wifi FPTU_Exam. Mật khẩu: 12345678
+
+- Tải đúng phần mềm thi thử tại https://lms-hcmuni.fpt.edu.vn/
+
+- Cơ sở Nhà Văn Hóa Sinh viên: 
+
+- Sinh viên kết nối wifi FPTU_Exam. Mật khẩu: 12345678
+
+- Tải phần mềm thi PE mới nhất tại: https://lms-hcmuni.fpt.edu.vn/ 
+
+- Đăng nhập phần mềm thi bằng tài khoản đã được Khảo thí gửi qua email, sử dụng các Exam code bên dưới tương ứng với môn học:
+
+
+PE_FER201m_TrialTest_Spring24
+
+PE_FER202_TrialTest
+
+PE_MMA301_TrialTest_Spring24 
+
+PE_SDN301m_TrialTest_Spring24 
+
+Trong quá trình thi thử, nếu gặp vấn đề kỹ thuật cần hỗ trợ, sinh viên đến phòng IT Support: phòng 102 (Cơ sở Campus Q9) ; phòng 605 (Cơ sở Nhà Văn Hóa) hoặc nhắn tin vào Group Zalo IT Support: https://zalo.me/g/nfxxly638
